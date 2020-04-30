@@ -1,6 +1,6 @@
 #!/bin/bash
 rm -rf colibri_stats.xml
-colibri="http://192.168.144.128:8080/colibri/stats"
+colibri="http://your.ip:8080/colibri/stats"
 bar=$(curl $colibri)
 i=1
 j=3

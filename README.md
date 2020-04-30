@@ -7,4 +7,5 @@ Español:
 Un simple script en bash que obtiene datos de la API de [Jitsi Meet Colibri API](https://github.com/jitsi/jitsi-videobridge/blob/master/doc/rest-colibri.md), analiza los datos más útiles y los convierte a XML.
 
 日本語:  
- [Jitsi Meet Colibri API](https://github.com/jitsi/jitsi-videobridge/blob/master/doc/rest-colibri.md)からデータを取得し、有用なデータを解析してXMLに変換するシンプルなbashスクリプトです。
+シンプルなbashスクリプトです。
+[Jitsi Meet Colibri API](https://github.com/jitsi/jitsi-videobridge/blob/master/doc/rest-colibri.md)からデータを取得し、有用なデータを解析してXMLに変換する。
